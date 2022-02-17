@@ -10,5 +10,5 @@ if randomNumber1 >= 1 and randomNumber1 <= 20 then --wrote an if statement and s
 elseif randomNumber1 >= 21 and randomNumber1 <= 50 then
     print("Rip Ich habe die nummer", nummer, "erreicht und heiße", StringTwo);
 elseif randomNumber1 >= 50 and randomNumber1 <= 100 then
-    print("Solche Keks ich heiße", nummer, "und bin nicht gay", StringThree);
+    print("Ich habe die Nummer", nummer, "bekommen und heiße", StringThree);
 end
